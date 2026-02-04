@@ -32,5 +32,5 @@ It is simple, clean, and easy to understand for beginners.
 To run this project locally:
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://https://github.com/sohanakhan45566-sudo/my-Todolist
 cd repository-name
